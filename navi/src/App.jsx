@@ -7,6 +7,7 @@ const App = () => {
       <h4>hello javascript</h4>
       <p>A SMILE IS A CURVE THAT SETS EVERYTHING STRAIGHT</p>
       <h2>the mainly using this github profile</h2>
+      <p>javascript using this html and webpage using dainamic language</p>
     </div>
   );
 };
