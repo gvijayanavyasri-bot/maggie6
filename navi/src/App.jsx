@@ -5,6 +5,7 @@ const App = () => {
     <div>
       <h2>my name is navi</h2>
       <h4>hello javascript</h4>
+      <p>the javascript using this language web applications and using dainamic language</p>
       <p>A SMILE IS A CURVE THAT SETS EVERYTHING STRAIGHT</p>
       <h2>i amthe react</h2>
 
